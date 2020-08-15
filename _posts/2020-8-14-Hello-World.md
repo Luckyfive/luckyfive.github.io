@@ -1,7 +1,7 @@
-——-
+—-
 layout: post
 title: Trying out Jekyll
-——-
+—-
 
 I’ve always wanted to set something up with Jekyll, but I’ve never gotten around to it. This time I’m setting this up using my iPhone via the Working Copy app. 
 
